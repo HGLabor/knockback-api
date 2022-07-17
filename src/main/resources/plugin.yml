@@ -1,0 +1,5 @@
+name: KnockbackAPI
+main: de.hglabor.knockbackapi.KnockbackAPI
+description: A simple and easy to use api to configure the knockback behaivor of entities
+version: ${version}
+api-version: 1.19 # Like really, this plugin is ONLY compatible with 1.19 and above as it uses Configurate for its configuration.
