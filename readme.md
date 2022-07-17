@@ -99,5 +99,5 @@ If you want to replicate the 1.8 knockback, [taito2019](https://github.com/taito
 new KnockbackSettings()
         .modifyKnockback(true)
         .knockbackFriction(3.0)
-        .knockbackHorizontal(0.64)
+        .knockbackHorizontal(0.65)
 ```
